@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIBGCC", "SIBGCC\SIBGCC.csproj", "{6C41E189-7AF5-4CDD-AABD-05A0DB6AABFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C41E189-7AF5-4CDD-AABD-05A0DB6AABFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C41E189-7AF5-4CDD-AABD-05A0DB6AABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C41E189-7AF5-4CDD-AABD-05A0DB6AABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C41E189-7AF5-4CDD-AABD-05A0DB6AABFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
